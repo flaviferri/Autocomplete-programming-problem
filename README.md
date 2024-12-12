@@ -31,9 +31,9 @@ Handle case-insensitive input.
 
 
 ## Keywords
-
+```
 Pandora, Pinterest, Paypal, Pg&e, Project free tv, Priceline, Press democrat, Progressive, Project runway, Proactive, Programming, Progeria, Progesterone, Progenex, Procurable, Processor, Proud, Print, Prank, Bowl, Owl, River, Phone, Kayak, Stamps, Reprobe
-
+```
 
 ## How It Works
 
